@@ -1,13 +1,16 @@
 .container {
     flex-basis: 700px;
-    margin: 0 auto;
-    padding: 0 20px;
+    margin: 0 10 px;
+    padding: 0 20 px; 
     box-shadow: 4px 4px 30px #4e39aa;
     border-radius: 10px;
     background: #ffffff;
+    text-align: center;
+
 }
 .container__title {
     color: #4e30f8;
     text-align: center;
-    padding-top: 15px;
+    padding-top: 10px;
+    margin-bottom: 20px;
 }
