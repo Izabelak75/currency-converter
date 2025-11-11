@@ -9,6 +9,14 @@ html {
 }
 
 body {
-    font-family: "Athiti", sans-serif;
-    margin: 0;
+    font-family: "Lato", sans-serif;
+    display: flex;
+    align-items: center;
+    background-color: #f3eaff;
+    background-image: url("../images/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed; 
+    color: #1d1d1d; 
 }
