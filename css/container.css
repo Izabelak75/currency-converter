@@ -5,3 +5,8 @@
     box-shadow: 4px 4px 30px #4e39aa;
     border-radius: 10px;
 }
+.container__title {
+    color: #4e30f8;
+    text-align: center;
+    padding-top: 15px;
+}
