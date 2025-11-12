@@ -14,7 +14,7 @@ The language of the page is **Polish**.
 
 ![Currency Converter Demo](images/currency-demo.gif)
 
-Check the live demo: [View Website](https://izabelak75.github.io/Currency-Converter/) 
+Check the live demo: [View Website](https://izabelak75.github.io/currency-converter/) 
 
 ---
 
